@@ -4,31 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="20f7dc8d-f4ea-4c98-bf67-4d01b07db2fb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Car Insurance Company.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CarInsuranceCompany/Address.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CarInsuranceCompany/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CarInsuranceCompany/ComprehensivePolicy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CarInsuranceCompany/InsuranceCompany.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CarInsuranceCompany/InsurancePolicies.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CarInsuranceCompany/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CarInsuranceCompany/MyDate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CarInsuranceCompany/PolicyException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CarInsuranceCompany/PolicyHolderNameException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CarInsuranceCompany/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CarInsuranceCompany/SerializableTestCode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CarInsuranceCompany/TestCode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CarInsuranceCompany/ThirdPartyPolicy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CarInsuranceCompany/UpdateUI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CarInsuranceCompany/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CarInsuranceCompany/UserUI.java" afterDir="false" />
-    </list>
+    <list default="true" id="20f7dc8d-f4ea-4c98-bf67-4d01b07db2fb" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
