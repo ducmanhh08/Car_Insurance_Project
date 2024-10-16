@@ -1,0 +1,3 @@
+U,1, Matthew Nguyen,178, Quan Nhan, Thanh Xuan, Hanoi
+U,2, Mia Nguyen,178, Quan Nhan, Thanh Xuan, Hanoi
+U,3, Hannah Aji,89, Hughes, 2000, Sydney

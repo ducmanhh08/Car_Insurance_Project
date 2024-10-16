@@ -1,0 +1,4 @@
+C,328870,null,2021, Audi Q8,LUX,56000.0,5,26,4,2,5,2002
+T,399405,Matthew Nguyen,2021, Audi Q8,LUX,56000.0,1, Repairing accessories,8,11,2020
+T,363390,Jayla Tiger,2023, Porsche Taycan,SPORTS,32000.0,4, Returning products,30,12,2022
+

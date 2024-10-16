@@ -1,0 +1,5 @@
+T,338671,Jayla Tiger,2023, Porsche Taycan,SPORTS,32000.0,4, Returning products,30,12,2022
+T,362670,Kudo Sinichi,2020, Mazda CX-5,SUV,35000.0,3, Returning products,21,10,2018
+T,310040,Matthew Nguyen,2021, Audi Q8,LUX,56000.0,1, Repairing accessories,8,11,2020
+C,360985,null,2021, Audi Q8,LUX,56000.0,5,26,4,2,5,2002
+C,328456,Blaze Charlie,2023, Porsche Taycan,SPORTS,32000.0,2,22,2,2,5,2024
